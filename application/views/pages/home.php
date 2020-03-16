@@ -1,0 +1,1 @@
+<p>This is the home page of my Codeigniter web app.</p>
